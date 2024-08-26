@@ -6,7 +6,7 @@ Este repositorio proporciona una visión general del proyecto, incluyendo enlace
 
  - [Repositorio del backend](https://github.com/JcromeroP/Backend)
  - [Repositorio del frontend](https://github.com/JcromeroP/Fronted)
- - 
+   
 ## Herramientas de Gestión de Proyectos
 
  - **Jira:**[Enlace del tablero de Jira](https://sistema-intermestral-corhuila.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiZDlkYWEwZWIwYWI4NGUwNmI2ZTAwY2Q3ZDg4OGRkYjUiLCJwIjoiaiJ9)
