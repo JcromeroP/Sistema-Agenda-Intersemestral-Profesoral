@@ -9,9 +9,9 @@ Este repositorio proporciona una visión general del proyecto, incluyendo enlace
    
 ## Herramientas de Gestión de Proyectos
 
- - **Jira:**[Enlace del tablero de Jira](https://sistema-intermestral-corhuila.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiZDlkYWEwZWIwYWI4NGUwNmI2ZTAwY2Q3ZDg4OGRkYjUiLCJwIjoiaiJ9)
  - **Trello:** [Enlace del tablero de trello](https://trello.com/b/KuoseWa4/sistema-agenda-intersemestral-corhuila)
  - **Figma Mockup:** [Enlace del espacio de trabajo en Figma](https://www.figma.com/design/eHc1jQcQ6l8oaqqFyRjrYQ/Mockups?node-id=0-1&t=plSbJuIIJksUHrSf-1)
+   
 ## Documentación
 
  - **Documentación General:** [Enlaces a los documentos del proyecto en Google Drive](https://drive.google.com/drive/folders/16N3grrqM79Zev6aYuc0nXLNYxDHWVCJ3?usp=drive_link)
