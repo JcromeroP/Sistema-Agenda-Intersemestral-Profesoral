@@ -6,6 +6,11 @@ Este repositorio proporciona una visión general del proyecto, incluyendo enlace
 
  - [Repositorio del backend](https://github.com/Jaiberleon/Sistema-agenda-intersemestral_back)
  - [Repositorio del frontend](https://github.com/Jaiberleon/sis-agenda-frontend-)
+
+### Microservicios
+- **Api-Gateway:** [Respositorio del Api-Gateway](https://github.com/Yeicamm/api-gateway-scotia/tree/dev)
+- **Eureka-Server:** [Respositorio de eureka-server](https://github.com/Yeicamm/eureka-server-scotia/tree/dev)
+- **Keycloak-login:** [Respositorio de keycloak-login](https://github.com/Yeicamm/login-scotia/tree/dev)
    
 ## Herramientas de Gestión de Proyectos
 
