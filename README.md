@@ -5,7 +5,7 @@ Este repositorio proporciona una visión general del proyecto, incluyendo enlace
 ## Repositorios
 
  - [Repositorio del backend](https://github.com/Jaiberleon/Sistema-agenda-intersemestral_back)
- - [Repositorio del frontend](https://github.com/Jaiberleon/sis-agenda-corhuila-fronted)
+ - [Repositorio del frontend](https://github.com/Jaiberleon/sis-agenda-frontend-)
    
 ## Herramientas de Gestión de Proyectos
 
